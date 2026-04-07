@@ -43,7 +43,7 @@
 - 🔭 Currently working on **ERP Systems & AI Projects**
 - 🌱 Learning **Machine Learning, Deep Learning & Cloud Architecture**
 - ⚡ Fun fact: *I debug with coffee ☕ and music 🎵*
-- 📫 Reach me at **ravinduch.dev@gmail.com**
+- 📫 Reach me at **infor.abeysekara@gmail.com**
 
 <br clear="both"/>
 
