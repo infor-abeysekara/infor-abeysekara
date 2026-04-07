@@ -38,7 +38,7 @@
 
 - 🎓 Pursuing **Diploma in ICT** at *Wayamba University of Sri Lanka*
 - 🤖 Specialized in **Python Development & AI Essentials** at *Rysera STEM Institute*
-- 💼 Founder & Lead Developer at **[Lumnix Solutions](https://lumnixsolutions.com)**
+- 💼 Founder & Lead Developer at **[Lumnix Solutions](https://lumnixsolutions.site)**
 - 🌏 Based in **Baddegama, Galle** & **Sooriyawewa, Hambantota**
 - 🔭 Currently working on **ERP Systems & AI Projects**
 - 🌱 Learning **Machine Learning, Deep Learning & Cloud Architecture**
@@ -143,7 +143,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://lumnixsolutions.com">
+  <a href="https://lumnixsolutions.site">
     <img src="https://img.shields.io/badge/Lumnix_Solutions-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Lumnix Solutions" />
   </a>
   &nbsp;
