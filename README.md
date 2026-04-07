@@ -135,7 +135,7 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> **Connect with Me**
 
 <div align="center">
-  <a href="mailto:ravinduch.dev@gmail.com">
+  <a href="mailto:infor.abeysekara@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
