@@ -1,18 +1,15 @@
-<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravindu%20Chandeepa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Freelance%20Solutions%20Specialist&descSize=16&descAlignY=52&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravindu%20Chandeepa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Full-Stack%20&%20Enterprise%20Solutions&descSize=16&descAlignY=52&descAlign=50" width="100%" />
 </div>
 
-<!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Crafting+Digital+Experiences+with+Passion;%F0%9F%92%A1+Turning+Ideas+into+Powerful+Solutions;%F0%9F%8E%AF+Founder+%40+Lumnix+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Crafting+Digital+Experiences+with+Passion;%F0%9F%92%A1+Building+Advanced+ERP+%26+POS+Systems;%F0%9F%8E%AF+Founder+%40+Lumnix+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- Profile Views & Followers -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=infor-abeysekara&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
   &nbsp;
@@ -27,20 +24,19 @@
 
 <br/>
 
-<!-- About Me Section -->
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> **About Me**
 
 <p>
-  I'm a <b>Software Developer</b> and <b>Freelance Solutions Specialist</b> from <img src="https://flagsapi.com/LK/flat/16.png" alt="Sri Lanka" /> <b>Sri Lanka</b>, passionate about building robust web applications and exploring the frontiers of AI.
+  I'm a <b>Full-Stack Software Developer</b> and <b>Enterprise Solutions Specialist</b> from <img src="https://flagsapi.com/LK/flat/16.png" alt="Sri Lanka" /> <b>Sri Lanka</b>, specialized in engineering high-performance Web, Desktop, and Mobile applications alongside custom AI automations.
 </p>
 
 - 🎓 Pursuing **Diploma in ICT** at *Wayamba University of Sri Lanka*
 - 🤖 Specialized in **Python Development & AI Essentials** at *Rysera STEM Institute*
 - 💼 Founder & Lead Developer at **[Lumnix Solutions](https://lumnixsolutions.site)**
-- 🌏 Based in **Baddegama, Galle** & **Sooriyawewa, Hambantota**
-- 🔭 Currently working on **ERP Systems & AI Projects**
+- 🌏 Based in **Galle** & **Sooriyawewa, Hambantota**
+- 🔭 Engineering advanced **ERP / POS Business Suites** and multi-agent AI ecosystems
 - 🌱 Learning **Machine Learning, Deep Learning & Cloud Architecture**
 - ⚡ Fun fact: *I debug with coffee ☕ and music 🎵*
 - 📫 Reach me at **infor.abeysekara@gmail.com**
@@ -49,8 +45,7 @@
 
 ---
 
-<!-- Tech Stack -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Tech Stack**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Tech Stack & Core Expertise**
 
 <div align="center">
 
@@ -59,17 +54,17 @@
   <img src="https://skillicons.dev/icons?i=java,php,js,python,kotlin&theme=dark" alt="Languages" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend & Mobile Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend, Cloud & Database
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,firebase,mysql,mongodb&theme=dark" alt="Backend" />
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Developer Ecosystem & AI Architecture
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" alt="Tools" />
 </p>
@@ -78,7 +73,6 @@
 
 ---
 
-<!-- GitHub Stats Section -->
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"> **GitHub Analytics**
 
 <div align="center">
@@ -87,17 +81,11 @@
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infor-abeysekara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=infor-abeysekara&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infor-abeysekara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 ---
 
-<!-- Trophies -->
 ## 🏆 **GitHub Trophies**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=infor-abeysekara&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
@@ -105,33 +93,25 @@
 
 ---
 
-<!-- Snake Animation -->
-## 🐍 **Contribution Snake**
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/infor-abeysekara/infor-abeysekara/output/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infor-abeysekara/infor-abeysekara/output/dist/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/infor-abeysekara/infor-abeysekara/output/dist/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
----
-
-<!-- Featured Projects -->
-## 📂 **Featured Projects**
+## 📂 **Featured Ecosystems**
 
 <div align="center">
   <a href="https://github.com/infor-abeysekara/NVTI-Baddegama">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=infor-abeysekara&repo=NVTI-Baddegama&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" alt="NVTI-Baddegama" />
   </a>
   <a href="https://github.com/infor-abeysekara/erpnext">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=infor-abeysekara&repo=erpnext&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" alt="ERPNext" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=infor-abeysekara&repo=erpnext&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" alt="ERPNext Ecosystem" />
   </a>
 </div>
 
+<br/>
+
+<blockquote>
+  <b>🚀 Active Development Note:</b> Building core architectures for industrial ERP solutions (Modimex Integrated Business Suite) and custom multi-agent AI tools.
+</blockquote>
+
 ---
 
-<!-- Connect Section -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> **Connect with Me**
 
 <div align="center">
@@ -158,14 +138,12 @@
 
 <br/>
 
-<!-- Spotify / Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Crafting+digital+experiences+with+precision+and+passion.&author=Ravindu+Chandeepa" alt="Quote" />
 </div>
 
 ---
 
-<!-- Support -->
 <div align="center">
   <h3>💖 Support My Work</h3>
   <p>If you find my projects useful, consider giving them a ⭐!</p>
@@ -176,7 +154,6 @@
 
 <br/>
 
-<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 </div>
